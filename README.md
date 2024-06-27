@@ -1,3 +1,5 @@
+是 SpringBoot | 2.6.1 的， 现在 Spring Boot 3.3.1 了
+
 ## 简介
 
 TANSCI 基于 SpringBoot + Vue3.2 + Element Plus 的后台管理系统
