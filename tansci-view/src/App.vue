@@ -5,7 +5,8 @@
 </template>
 <script setup>
   import {reactive, toRefs} from 'vue'
-  import zhCn from 'element-plus/lib/locale/lang/zh-cn'
+  //import zhCn from 'element-plus/lib/locale/lang/zh-cn'
+  import zhCn from "element-plus/dist/locale/zh-cn.mjs"
 
   const state = reactive({
     locale: zhCn
